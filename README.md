@@ -2,7 +2,7 @@
 
   [![YouTube](https://img.shields.io/badge/YouTube-@JokaGameTV-red?style=for-the-badge&logo=youtube)](https://youtube.com/@JokaGameTV)
   [![TikTok](https://img.shields.io/badge/TikTok-@JokaGameTV-black?style=for-the-badge&logo=tiktok)](https://tiktok.com/@JokaGameTV)
-  [![Discord](https://img.shields.io/badge/Discord-Comunidade-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/seu-invite)
+  [![Discord](https://img.shields.io/badge/Discord-Comunidade-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YNcChkrBsV)
 
   ---
 
